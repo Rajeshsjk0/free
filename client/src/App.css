@@ -1,0 +1,7 @@
+#root {
+  background-color: rgb(39, 36, 36);
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}

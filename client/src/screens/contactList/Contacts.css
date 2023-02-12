@@ -1,0 +1,41 @@
+.contacts-container {
+  flex: 1;
+}
+.icons {
+  height: 30px;
+  width: 30px;
+  color: rgb(90, 89, 89) !important;
+}
+.blue-icon {
+  height: 30px;
+  width: 30px;
+  color: blue;
+}
+.banner {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.banner img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.option {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.selected {
+  color: white;
+}
+.list-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid 1px black;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
